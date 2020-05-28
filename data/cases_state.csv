@@ -1,4 +1,4 @@
-Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Rate
+Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,FIPS,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3,Testing_Rate,Hospitalization_Ratedsadasdas
 Alabama,US,2020-05-28 15:32:51,32.3182,-86.9023,16096,590,7951,7555.0,1,328.27641624780625,195794,1719,3.665506958250497,84000001,USA,3993.200338147551,10.679671968190855
 Alaska,US,2020-05-28 15:32:51,61.3707,-152.4044,411,10,364,37.0,2,56.1824631430739,46363,,2.4330900243309004,84000002,USA,6337.682575918091,
 American Samoa,US,2020-05-28 15:32:51,-14.270999999999999,-170.132,0,0,,0.0,60,0.0,174,,,16,ASM,312.7190381193724,
